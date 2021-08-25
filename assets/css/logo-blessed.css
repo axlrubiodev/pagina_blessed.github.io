@@ -1,0 +1,58 @@
+.cls-1{
+    fill:url(#linear-gradient);
+}
+
+.cls-2{
+    fill:url(#linear-gradient-2);
+}
+
+.cls-3{
+    fill:url(#linear-gradient-3);
+}
+
+.cls-4{
+    fill:url(#linear-gradient-4);
+}
+
+.cls-5{
+    fill:url(#linear-gradient-5);
+}
+
+.cls-6{
+    font-size: 31.67px;
+    font-family: 'HyperspaceRace-Bold' !important;
+    font-weight: 700;
+}
+
+.cls-10,
+.cls-6,
+.cls-9{
+    fill:#fff;
+}
+
+.cls-7{
+    letter-spacing:-0.01em;
+    font-family: 'HyperspaceRace-Bold' !important;
+}
+
+.cls-8{
+    letter-spacing:-0.02em;
+    font-family: 'HyperspaceRace-Bold' !important;
+}
+
+.cls-10,
+.cls-9{
+    font-size:9.22px;
+    stroke:#fff;
+    stroke-miterlimit:10;
+    stroke-width:0.25px;
+    font-family: 'Bobcat-Regular' !important;
+}
+
+.cls-9{
+    letter-spacing:0.08em;
+}
+
+.cls-10{
+    letter-spacing:0.08em;
+}

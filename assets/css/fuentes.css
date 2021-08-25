@@ -1,0 +1,48 @@
+@font-face{
+    font-family: 'HyperspaceRace-Bold';
+    src: url(../font/hyperspacerace/HyperspaceRace-Bold.ttf);
+}
+
+@font-face{
+    font-family: 'Bobcat-Regular';
+    src: url(../font/bobcat-regular/Bobcat-Regular.ttf);
+}
+
+
+
+
+
+@font-face{
+    font-family: 'Proxima Nova Thin';
+    src: url(../font/proxima-nova/Proxima\ Nova\ Thin.otf);
+}
+
+@font-face{
+    font-family: 'Proxima Nova Regular';
+    src: url(../font/proxima-nova/ProximaNova-Regular.otf);
+}
+
+@font-face{
+    font-family: 'Proxima Nova Bold';
+    src: url(../font/proxima-nova/Proxima\ Nova\ Bold.otf);
+}
+
+@font-face{
+    font-family: 'Proxima Nova ExtraBold';
+    src: url(../font/proxima-nova/Proxima\ Nova\ Extrabold.otf);
+}
+
+@font-face{
+    font-family: 'Proxima Nova Alt Bold';
+    src: url(../font/proxima-nova/Proxima\ Nova\ Alt\ Bold.otf);
+}
+
+@font-face{
+    font-family: 'Proxima Nova Alt Light';
+    src: url(../font/proxima-nova/Proxima\ Nova\ Alt\ Light.otf);
+}
+
+@font-face{
+    font-family: 'Proxima Nova Alt Thin';
+    src: url(../font/proxima-nova/Proxima\ Nova\ Alt\ Thin.otf);
+}
